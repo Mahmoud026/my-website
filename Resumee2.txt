@@ -1,0 +1,29 @@
+F ull Stack W eb Developer
+(Python • Django • Flask)
+Mahmoud Ahmed Mohamed Ali Hana
+Banha City , Qalyubia, Egypt (Remote-ready)
+ Mobile / WhatsApp: +20 101 138 7289 •  Email: mahmoudhana2025@gmail.com
+ www.linkedin.com/in/m-h-284986351 • upwork.com/freelancers/ ∼01a8cb100ab179634c
+Core Skills Languages : Python, PHP , JavaScript, SQL, HTML, CSS
+F rameworks & Libraries : Laravel, Django, React, Node.js, Flask
+Databases : MySQL, PostgreSQL, SQLite
+T ools & T echnologies : Git, GitHub, VS Code, XAMPP , Chart.js
+Soft Skills : Clear communicator, committed learner, detail-oriented thinker
+Projects Octable – Academic Scheduling & T abulation System
+• Developed a full academic platform for universities with custom scheduling, role-based
+dashboards (Doctor, T A, Student), attendance tracking, and data tabulation across 8
+data formats, designed for clarity and print-readability .
+Rawda Institute – Education Management System
+• Built Django-based models and dashboards to manage students, teachers, groups, lessons,
+and attendance, integrating Chart.js for academic trend visualization.
+Education B.Sc. in Civil Engineering (Final Stage)
+October 6 University , Egypt
+Certifications
+• CS50x, including ten problem sets and one final project. A warded from Cambridge, Mas-
+sachusetts, In the year two thousand twenty-five.
+Extras Dev Playground :
+• Exploring CI/CD workflows with GitHub Actions.
+Languages :
+• Arabic (Native)
+• English (Professional Fluency)
+1

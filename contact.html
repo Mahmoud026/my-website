@@ -1,0 +1,51 @@
+<!-- ma-website/contact.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact | Mahmoud Hana</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">Mahmoud Hana</div>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="contact.html" class="active">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section class="contact-section">
+      <h1>📬 Contact Me</h1>
+      <p class="contact-intro">Let's build something together! Reach out for collaborations, freelance work, or just to say hi.</p>
+      <form action="https://formspree.io/f/your-form-id" method="POST" class="contact-form">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" required />
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required />
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="5" required></textarea>
+        <button type="submit" class="btn primary">Send</button>
+      </form>
+      <div class="contact-socials">
+        <p>Or reach me via:</p>
+        <ul>
+          <li><a href="mailto:mahmoudhana2025@gmail.com">📧 Email</a></li>
+          <li><a href="https://github.com/yourgithub" target="_blank">💻 GitHub</a></li>
+          <li><a href="https://linkedin.com/in/m-h-284986351" target="_blank">🔗 LinkedIn</a></li>
+          <li><a href="https://upwork.com/freelancers/~01a8cb100ab179634c" target="_blank">💼 Upwork</a></li>
+        </ul>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Mahmoud Hana. Inbox open. Coffee ready ☕</p>
+  </footer>
+  <script src="js/script.js"></script>
+</body>
+</html>
